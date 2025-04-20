@@ -1,0 +1,11 @@
+Sample,Best Accuracy,Best Parameters
+S1,98.9,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S2,98.8,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S3,98.96,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S4,98.9,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S5,99.0,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S6,98.38,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S7,98.8,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S8,98.9,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S9,98.8,"{'kernel': 'rbf', 'nu': np.float64(0.01)}"
+S10,98.64,"{'kernel': 'poly', 'nu': np.float64(0.01)}"
